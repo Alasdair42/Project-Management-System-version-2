@@ -1,0 +1,56 @@
+The type of person is : Contractor
+The name of the person is : Jim
+The project the person is involved in is : 123 124 125
+The Telephone number of the person is : 021 345 6789
+The Email Address of the person is : jim@gmail
+The Postal Address of the person is : Cape Town
+
+
+The type of person is : Customer
+The name of the person is : Bill
+The project the person is involved in is : 125
+The Telephone number of the person is : 021 345 7777
+The Email Address of the person is : bill@gmail
+The Postal Address of the person is : Cape Town
+
+
+The type of person is : Customer
+The name of the person is : Sam
+The project the person is involved in is : 124
+The Telephone number of the person is : 021 678 4444
+The Email Address of the person is : sam@gmail
+The Postal Address of the person is : CapeTown
+
+
+The type of person is : Architect
+The name of the person is : James
+The project the person is involved in is : 123 124 125
+The Telephone number of the person is : 021 234 6789
+The Email Address of the person is : james@gmail
+The Postal Address of the person is : Cape Town
+
+
+The type of person is : Customer
+The name of the person is : Jack
+The project the person is involved in is : 123
+The Telephone number of the person is : 021 654 7777
+The Email Address of the person is : jack@gmail
+The Postal Address of the person is : Cape Town
+
+
+The type of person is : Customer
+The name of the person is : John
+The project the person is involved in is : 121
+The Telephone number of the person is : 021 234 6785
+The Email Address of the person is : John@gmail
+The Postal Address of the person is : Cape Town
+
+
+The type of person is : Customer
+The name of the person is : Joe
+The project the person is involved in is : 122
+The Telephone number of the person is : 021 689 3425
+The Email Address of the person is : joe@gmail
+The Postal Address of the person is : Cape Town
+
+

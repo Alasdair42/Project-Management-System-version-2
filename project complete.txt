@@ -1,0 +1,32 @@
+The Project Number is : 121
+The Project Name is : Barnard
+The Building Type is : Flat
+The Project Address is : Cape Town
+The ERF Number is : 8567
+The Total Fee is : 100000
+The amount paid to date is : 80000
+The total amount due by the customer is : 20000
+The Due Date of the Project is : 21/10/2021
+The Architect for the project is : James
+The Contractor for the project is : Jim
+The Customer for the project is : John 
+This project has been finalized on : 19/10/2021
+
+
+The Project Number is : 122
+The Project Name is : Kayalami
+The Building Type is : House
+The Project Address is : Cape Town
+The ERF Number is : 2456
+The Total Fee is : 1000000
+The amount paid to date is : 1000000
+The total amount due by the customer is : 0
+The Due Date of the Project is : 18/10/2021
+The Architect for the project is : James
+The Contractor for the project is : Jim
+The Customer for the project is : Joe
+This project has been finalised on : 19/10/2021
+
+
+
+

@@ -1,0 +1,40 @@
+The project number is : 123
+The project name is : Kloofridge
+The Building Type is : Flat
+The Project Address is : Cape Town
+The ERF Number is : 4444
+The Total Fee is : 1000000
+The Amount Paid to date is : 500000
+The total amount due by the customer is : 500000
+The Due Date of the Project is : 14/11/2021
+The Architect for the project is : James
+The Contractor for the project is : Jim
+The Customer for the project is : Jack
+
+
+The project number is : 124
+The project name is : House Sam
+The Building Type is : House
+The Project Address is : Cape Town
+The ERF Number is : 1234
+The Total Fee is : 20000000
+The Amount Paid to date is : 15000000
+The total amount due by the customer is : 5000000
+The Due Date of the Project is : 26/10/2021
+The Architect for the project is : James
+The Contractor for the project is : Jim
+The Customer for the project is : Sam
+
+
+The project number is : 125
+The project name is : Barnard
+The Building Type is : Swimming Pool
+The Project Address is : Cape Twon
+The ERF Number is : 5683
+The Total Fee is : 70000
+The Amount Paid to date is : 35000
+The total amount due by the customer is : 35000
+The Due Date of the Project is : 20/10/2021
+The Architect for the project is : James
+The Contractor for the project is : Jim
+The Customer for the project is : Bill

@@ -1,0 +1,8 @@
+The name of the person is : John
+The project the person is involved in is : 122
+The Telephone number of the person is : 021 234 6785
+The Email Address of the person is : john@gmail
+The Postal Address of the person is : Cape Town
+The total amount due by the customer is : 20000
+
+
